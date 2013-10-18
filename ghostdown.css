@@ -383,7 +383,8 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 	position: absolute;
 	top: -40px;
 	left: 0;
-	box-shadow: rgba(0,0,0,0.1) 0 -2px 3px inset
+	box-shadow: rgba(0,0,0,0.1) 0 -2px 3px inset;
+	padding: 10px 0;
 }
 .features .editor .entry-markdown .floatingheader a, .features .editor .entry-preview .floatingheader a {
 	color: #fff

@@ -1,6 +1,6 @@
 # Ghost Markdown Editor
 
-Pulled this from the Ghost Blogging Platform. Its not the full thing, just the example from the homepage which is pretty cool in its own right.
+Pulled this from Ghost ( http://ghost.org/features ). Its a responsive jquery markdown editor with instant preview.
 
 ## Screenshot
 

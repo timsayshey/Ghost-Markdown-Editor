@@ -4,7 +4,7 @@ Pulled this from Ghost ( http://ghost.org/features ). Its a responsive jquery ma
 
 ## Screenshot
 
-![Sceenshot](https://raw.github.com/timsayshey/Ghost-Markdown-Editor/master/screenshot.png)
+![Screenshot](https://raw.github.com/timsayshey/Ghost-Markdown-Editor/master/screenshot.png)
 
 ## Future
 

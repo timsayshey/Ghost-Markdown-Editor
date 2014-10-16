@@ -14,7 +14,7 @@ Yay, Durgesh created a node based fork of ghostdown with image upload placeholde
 
 Demo: http://ghosditor.herokuapp.com/ 
 
-Repo: https://github.com/durgesh-priyaranjan/ghosditor
+Star the repo: https://github.com/durgesh-priyaranjan/ghosditor
 
 Now if only it was platform independent (not requiring node)
 

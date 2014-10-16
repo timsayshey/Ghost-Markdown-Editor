@@ -8,7 +8,13 @@ Pulled this from Ghost ( http://ghost.org/features ). Its a responsive jquery ma
 
 ## Future
 
-I would love to see someone release a full featured standalone version with the file/image upload placeholders, etc.
+~~I would love to see someone release a full featured standalone version with the file/image upload placeholders, etc.~~
+
+Yay, Durgesh created a node based fork of ghostdown with image upload placeholders:
+Demo: http://ghosditor.herokuapp.com/ 
+Repo: https://github.com/durgesh-priyaranjan/ghosditor
+
+Now if only it was platform independent (not requiring node)
 
 ## Contribute
 

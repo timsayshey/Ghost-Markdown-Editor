@@ -6357,7 +6357,7 @@ var Showdown={extensions:{}},forEach=Showdown.forEach=function(a,b){if(typeof a.
         var wordCount = document.getElementsByClassName('entry-word-count')[0],
             editorValue = editor.getValue();
 
-        if (editorValue.length) {
+        if (editorValue.length && wordCount) {
             wordCount.innerHTML = editorValue.match(/\S+/g).length + ' words';
         }
     }
